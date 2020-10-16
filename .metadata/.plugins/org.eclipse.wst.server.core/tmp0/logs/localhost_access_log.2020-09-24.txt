@@ -1,0 +1,12 @@
+127.0.0.1 - - [24/Sep/2020:14:37:20 +0900] "GET / HTTP/1.1" 404 807
+127.0.0.1 - - [24/Sep/2020:14:50:26 +0900] "GET / HTTP/1.1" 404 807
+127.0.0.1 - - [24/Sep/2020:14:50:50 +0900] "GET / HTTP/1.1" 404 807
+0:0:0:0:0:0:0:1 - - [24/Sep/2020:14:50:52 +0900] "GET /guest_model1/WEB-INF/classes/com/itwill/guest/GuestServiceTestMain.java HTTP/1.1" 404 721
+0:0:0:0:0:0:0:1 - - [24/Sep/2020:14:50:52 +0900] "GET /favicon.ico HTTP/1.1" 404 818
+127.0.0.1 - - [24/Sep/2020:14:52:05 +0900] "GET / HTTP/1.1" 404 807
+0:0:0:0:0:0:0:1 - - [24/Sep/2020:14:52:08 +0900] "GET /user_model2_mybatis/ HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [24/Sep/2020:14:52:08 +0900] "GET /user_model2_mybatis/user_main.do HTTP/1.1" 200 2267
+0:0:0:0:0:0:0:1 - - [24/Sep/2020:14:52:08 +0900] "GET /user_model2_mybatis/css/styles.css HTTP/1.1" 200 1245
+0:0:0:0:0:0:0:1 - - [24/Sep/2020:14:52:08 +0900] "GET /user_model2_mybatis/css/user.css HTTP/1.1" 200 1640
+0:0:0:0:0:0:0:1 - - [24/Sep/2020:14:52:08 +0900] "GET /user_model2_mybatis/image/header.jpg HTTP/1.1" 200 4804
+0:0:0:0:0:0:0:1 - - [24/Sep/2020:14:52:09 +0900] "GET /favicon.ico HTTP/1.1" 404 818

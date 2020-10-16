@@ -1,0 +1,15 @@
+127.0.0.1 - - [25/Sep/2020:20:04:03 +0900] "GET / HTTP/1.1" 404 807
+0:0:0:0:0:0:0:1 - - [25/Sep/2020:20:04:21 +0900] "GET /user_model2/ HTTP/1.1" 404 823
+0:0:0:0:0:0:0:1 - - [25/Sep/2020:20:04:21 +0900] "GET /favicon.ico HTTP/1.1" 404 818
+127.0.0.1 - - [25/Sep/2020:20:05:35 +0900] "GET / HTTP/1.1" 404 807
+0:0:0:0:0:0:0:1 - - [25/Sep/2020:20:06:02 +0900] "GET /user_model2/ HTTP/1.1" 404 823
+0:0:0:0:0:0:0:1 - - [25/Sep/2020:20:06:02 +0900] "GET /favicon.ico HTTP/1.1" 404 818
+0:0:0:0:0:0:0:1 - - [25/Sep/2020:20:06:19 +0900] "GET /user_model2/user_main.do HTTP/1.1" 200 2202
+0:0:0:0:0:0:0:1 - - [25/Sep/2020:20:06:19 +0900] "GET /user_model2/css/styles.css HTTP/1.1" 200 1245
+0:0:0:0:0:0:0:1 - - [25/Sep/2020:20:06:19 +0900] "GET /user_model2/css/user.css HTTP/1.1" 200 1640
+0:0:0:0:0:0:0:1 - - [25/Sep/2020:20:06:19 +0900] "GET /user_model2/image/header.jpg HTTP/1.1" 200 4804
+0:0:0:0:0:0:0:1 - - [25/Sep/2020:20:06:33 +0900] "GET /user_model2/user_login_form.jsp HTTP/1.1" 404 811
+0:0:0:0:0:0:0:1 - - [25/Sep/2020:20:06:40 +0900] "GET /user_model2/user_write_form.jsp HTTP/1.1" 404 811
+0:0:0:0:0:0:0:1 - - [25/Sep/2020:20:08:18 +0900] "GET /user_model2/WEB-INF/views/user_login_form.jsp HTTP/1.1" 404 721
+0:0:0:0:0:0:0:1 - - [25/Sep/2020:20:09:28 +0900] "GET /user_model2/WEB-INF/views/user_login_form.jsp HTTP/1.1" 404 721
+0:0:0:0:0:0:0:1 - - [25/Sep/2020:20:10:30 +0900] "GET /user_model2/user_login_form.do HTTP/1.1" 404 811
