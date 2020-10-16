@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;guest_model2_spring/A.dependency설정.txt&apos; to &apos;A.dependency(의존성)설정.txt&apos;" description="Rename resource &apos;A.dependency설정.txt&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="A.dependency설정.txt" name="A.dependency(의존성)설정.txt" stamp="1602479485482" updateReferences="true"/>
+</session>
