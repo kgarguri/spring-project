@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+encoding//WebContent/SQL/shop.ddl=UTF-8
+encoding//WebContent/SQL/shop_insert.sql=UTF-8
+encoding//WebContent/SQL/shop_select_update_delete.sql=UTF-8
+encoding//WebContent/SQL/user1_product1_cart1_create.ddl=UTF-8
+encoding//WebContent/SQL/user1_product1_cart1_insert.sql=UTF-8
